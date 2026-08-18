@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+sqlite_database.db
+classifier.pkl
+login_config.yml
+face_landmarker.task
+classifier_cache.txt
+CLAUDE.md
